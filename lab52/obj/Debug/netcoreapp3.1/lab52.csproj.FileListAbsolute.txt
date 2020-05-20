@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\lab52\lab52\bin\Debug\netcoreapp3.1\lab52.exe
+C:\Users\User\source\repos\lab52\lab52\bin\Debug\netcoreapp3.1\lab52.deps.json
+C:\Users\User\source\repos\lab52\lab52\bin\Debug\netcoreapp3.1\lab52.runtimeconfig.json
+C:\Users\User\source\repos\lab52\lab52\bin\Debug\netcoreapp3.1\lab52.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab52\lab52\bin\Debug\netcoreapp3.1\lab52.dll
+C:\Users\User\source\repos\lab52\lab52\bin\Debug\netcoreapp3.1\lab52.pdb
+C:\Users\User\source\repos\lab52\lab52\obj\Debug\netcoreapp3.1\lab52.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab52\lab52\obj\Debug\netcoreapp3.1\lab52.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab52\lab52\obj\Debug\netcoreapp3.1\lab52.AssemblyInfo.cs
+C:\Users\User\source\repos\lab52\lab52\obj\Debug\netcoreapp3.1\lab52.dll
+C:\Users\User\source\repos\lab52\lab52\obj\Debug\netcoreapp3.1\lab52.pdb
